@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mainwaring, Hawes, Payne, and others, concerning a depredation made by the Spanish-West-India fleete upon the ship Elizabeth. Restitution sought in Spayne, justice denied, and thereupon, according to lawe, iustice petitioned of the Honorable Houses of Parliament. In which is prayed that (out of 50000 l. deposited in the Parliaments hands, in lieu of plate and merchandize by them formerly arrested) satisfaction may bee made.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81279</idno>
+            <idno type="STC">Wing C939</idno>
+            <idno type="STC">Thomason E355_17</idno>
+            <idno type="STC">ESTC R4352</idno>
+            <idno type="EEBO-CITATION">99872660</idno>
+            <idno type="PROQUEST">99872660</idno>
+            <idno type="VID">159900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159900)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mainwaring, Hawes, Payne, and others, concerning a depredation made by the Spanish-West-India fleete upon the ship Elizabeth. Restitution sought in Spayne, justice denied, and thereupon, according to lawe, iustice petitioned of the Honorable Houses of Parliament. In which is prayed that (out of 50000 l. deposited in the Parliaments hands, in lieu of plate and merchandize by them formerly arrested) satisfaction may bee made.</title>
+                  <author>Mainwaring, Randall.</author>
+                  <author>Hawes, Nathaniel.</author>
+                  <author>Payne, George.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The ship Elizabeth, owned by Joseph Hawes and Company, was captured by the Spanish fleet while on a voyage to Virginia in 1637. The petitioners, as next of kin, seek recompense from money taken from the ship St. Clare and deposited with Parliament. In addition to their petition, the pamphlet contains other documents showing the history of the case including a proclamation for encouragement of trade to Virginia.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 29 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth (Ship)</term>
+               <term>Reprisals --  Early works to 1800.</term>
+               <term>Great Britain --  Colonies --  America --  Commerce --  Early works to 1800.</term>
+               <term>Virginia --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159900:1" rendition="simple:additions"/>
+            <p>THE CASE OF <hi>Mainwaring, Hawes, Payne and others,</hi> Concerning a Depredation made by the <hi>Spaniſh-Weſt-Jndia</hi> Fleete, upon the Ship ELIZABETH.</p>
+            <p>Reſtitution ſought in <hi>Spayne,</hi> Juſtice denied, and thereupon, according to Lawe, Iuſtice Peti<g ref="char:EOLhyphen"/>tioned of the Honorable Houſes of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>In which is prayed, That (out of 50000. <abbr>l</abbr> Depoſited in the PARLIAMENTS hands, in lieu of Plate and Mer<g ref="char:EOLhyphen"/>chandize by them formerly arreſted) Satisfaction may bee made.</p>
+            <p>Printed <hi>Anno</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:159900:2" rendition="simple:additions"/>
+            <pb facs="tcp:159900:2" rendition="simple:additions"/>
+            <head>To the Right Honourable the Lords and Commons aſſembled in PARLIAMENT.</head>
+            <head type="sub">The humble Petition of <hi>Randall Mainwaring, Nathaniell Hawes, George Payne,</hi> and others.</head>
+            <opener>SHEWETH:</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Ship <hi>Elizabeth,</hi> her tackle, furniture, and lading, valued at 12000 <abbr>l</abbr> belonging to <hi>Ioſeph Hawes</hi> Merchant, and Com<g ref="char:EOLhyphen"/>pany: going on a trading voyage for Virginia, was about 250. Leagues ſhort thereof, ſurpriſed and taken by eleven Sayle of the Spaniſh Weſt India Fleet, all under the command of one Generall, in the yeare 1637. whereof 4. were Galeons of the Kings, the reſt Merchants ſhips, who ſhared the goods among them, barbarouſly abuſed the Mariners and Paſſengers, and carryed the ſayd Ship into Spaine, and there detaine her unto this day. That the ſayd <hi>Hawes</hi> proved his loſſe in Spaine, and in the Admiralty of England, and had certificate thereof, to His Majeſty, and the Lords of his Privy Councell; was favoured with Letters to the Lord <hi>Aſton,</hi> and afterwards to Sir <hi>Arthur Hopton,</hi> when they were reſpectively Embaſſadours in Spaine, who indeavoured his ſatisfaction with that State, but could procure no reall retribution, as by the Copies of the ſayd Certi<g ref="char:EOLhyphen"/>ficate and Letters, may more at large appeare. Since which time, <hi>Ioſeph Hawes</hi> (formerly of good eſtate) by the ſayd loſſe utterly undone, died in priſon; and <hi>Randall Mainwaring, Nathaniel Hawes,</hi> and <hi>George Payne,</hi> now Petitioners to your Honours (left ingaged in ſeveral great ſummes of money for him) as next of kindred, have taken out Letters of Adminiſtration, and in December 1642. areſted (by Warrant out of the Admiralty) certaine Plate, Moneyes, and Mer<g ref="char:EOLhyphen"/>chandiſe, arriving at Southampton, in the ſhip the St. <hi>Clare,</hi> which were laden
+<pb facs="tcp:159900:3" rendition="simple:additions"/>into her out of the Spaniſh Weſt India Fleet; in which were divers ſhips and men that were in the fleet that robbed the <hi>Elizabeth,</hi> and made the aforeſaid de<g ref="char:EOLhyphen"/>predation, and both which fleets were ſet out by the ſame authority, and for the ſame uſe and purpoſe. After which areſt made by your Petitioners and ſome others, (by the Order of the Honourable Houſe of Commons heereunto an<g ref="char:EOLhyphen"/>nexed) 50000 <abbr>l</abbr> was depoſited in the hands of the Parliament, in ſtead of Bayle to anſwer thoſe Actions, by the claymers of the aforeſayd goods, and the goods in their property were releaſed. And in purſuance of the ſayd Areſt your Peti<g ref="char:EOLhyphen"/>tioners have made ſo cleare proofe, that not only the Judge of the Admiralty, but they who tooke the Defence of the Suit upon them againſt your Petitioners, doe acknowledge, That the taking of the ſayd ſhip <hi>Elizabeth,</hi> was a manifeſt and moſt ſhamefull deprdation, and that your Petitioners ought to have repayre for the ſame, which the ſayd Judge muſt needs affirme, if he be thereunto re<g ref="char:EOLhyphen"/>quired: Notwithſtanding all which, the ſayd Judge (foraſmuch as the mo<g ref="char:EOLhyphen"/>neyes aforeſayd remaine depoſited in the hands of the Parliament, and for that the ſatisfaction of your Petitioners out of this money is conceived to be matter of State) doth defer to give Sentence, for that the Supreme power hath not hi<g ref="char:EOLhyphen"/>therto declared, That the goods areſted are in point of State liable to make your Petitioners ſatisfaction.</p>
+            <p>In tender conſideration of all which, Foraſmuch as your Petitioners have uſed in Spaine all meanes requifite by Law, and poſſible againſt the perſons of thoſe that made the depredation, and cannot obtayne juſtice, and have no poſſibility of being repayred, but by that ſupreme power to which they are ſubject: And for as much as that power, not only by the Lawes of this Realme, but by the Law of Nations, may relieve oppreſſed ſubjects by Letters of reprizall, being the only and uſuall remedy afforded in caſes of this nature.</p>
+            <p>Your Petitioners moſt humbly pray, and beſeech this honourable Aſſem<g ref="char:EOLhyphen"/>bly, to take their caſe into your ſerious commiſeration, and to grant Let<g ref="char:EOLhyphen"/>ters of reprizall to your Petitioners to be repaired of their ſaid loſſes and damages out of the money depoſited in the Parliament, that ſo your op<g ref="char:EOLhyphen"/>preſſed Petitioners, who have been moſt unjuſtly ſpoiled by the Spanyard, and as unjuſtly denied reſtitution; may by the juſtice of this honourable Aſſembly, receive ſuch recompence as the Law will give them, when the ſupreme power of this kingdome ſhall have decreed the Letters of re<g ref="char:EOLhyphen"/>prizall to your Petitioners.</p>
+            <closer>
+               <signed>And your Petitioners as in duty ſhall continue to pray for your Honours.</signed>
+            </closer>
+         </div>
+         <div type="Order_of_Parliament">
+            <pb facs="tcp:159900:3"/>
+            <head>The Order of the houſe of COMMONS. <date>Die Lunae <hi>2.</hi> Januarii. <hi>1642.</hi>
+               </date>
+            </head>
+            <p>THe Merchants, Spanyards and owners of the Ship the <hi>Clare,</hi> having this day, in obedience to an Order of this Houſe of 29. Decemb. laſt paſt, paid in the lumme of 20000 <abbr>l</abbr> which with the 30000 <abbr>l</abbr> formerly delivered into the Tower, is to ſtand liable inſtead of bail to all Suits, Areſts and Claims according to Law, as the goods ſhould have been, if they had ſtill continued in cuſtody, made either by the Spaniſh Embaſſador, or any other whomſoever concerning the premiſes; this Houſe doth therefore order, that all thoſe perſons Sir <hi>Jn<hi rend="sup">o</hi> Nulls,</hi> or whom<g ref="char:EOLhyphen"/>ſoever elſe here, or at Southampton, in whoſe cuſtody the Cochinela, Ginger, Hides, and other goods brought in the Ship the <hi>Clare</hi> do remain; do forthwith deliver up the ſaid goods unto <hi>Ignatio Landahola, Diego Deſcarey, Benedict Stafford,</hi> and <hi>John Mayo,</hi> for the uſe of themſelves, and the reſt of the Mer<g ref="char:EOLhyphen"/>chants and owners, free from any preſent or future reſtraint or trouble whatſo<g ref="char:EOLhyphen"/>ever, they paying fraight, cuſtome, and all other charges duly disburſed by the ſaid Maſters and owners, any wayes concerning the ſaid goods; And this Houſe doth further order, that the Judge of the Admiralty, and others whom it may concern, take due notice of this Order, and do nothing in prejudice of the reall execution thereof.</p>
+            <closer>
+               <signed>Hen. Elſynge, <hi>Cler. Parl. Dom. Com.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159900:4"/>
+            <pb n="5" facs="tcp:159900:4"/>
+            <head>Sir <hi>Henry Martin</hi>'s Certificate to the Lords of his Majeſties moſt honorable <hi>Privy Councell.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your Lordſhips Order ſignified under the Petition annexed, the Petitioners have examined witneſſes in the Admiralty-Court, to prove the points deduced in the Pe<g ref="char:EOLhyphen"/>tition, which I conceive to be theſe foure. Firſt, That eleven ſayle of <hi>Spaniſh</hi> Ships, part of the Plate-fleete, ſurprized and tooke the ſhip <hi>Elizabeth</hi> from the Petitioners in 1637. in her courſe upon a trading Voyage for <hi>Virginia;</hi> about 250 leagues ſhort of <hi>Virginia,</hi> and carried her and all that was in her into <hi>Spaine,</hi> and there deteineth her. Secondly, That the whole value thereof with the dammage, doth amount to above 12000.<abbr>l</abbr> Third<g ref="char:EOLhyphen"/>ly, That the Company in the Spaniſh-fleete, robbed and ſpoyled the company in the <hi>Elizabeth</hi> of all they had, and impriſoned ſome of the Mariners in <hi>Spayne.</hi> Fourthly, and laſtly, That the Petitioners uſed all good endeavours to recover their goods, but all in vaine. All which foure points, I take to be ſufficiently teſtified with this, That the Lord <hi>Aſton,</hi> then Lord Ambaſſador for his Majeſty in <hi>Spaine,</hi> was then made privie to all the premiſes, and interpoſed his utmoſt endeavour in the behalfe of the Petitioners; whoſe Lordſhip is beſt able to informe our Honours upon what grounds the Spaniſh fleete did ſurprize the Petitio<g ref="char:EOLhyphen"/>ners, and the State there avow the proceeding and deny any reſtitution to the <hi>Engliſh.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>March 15. 1638.</date>
+               </dateline>
+               <signed>H. Martin.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159900:5"/>
+            <head>Their Lordſhips Letter into <hi>Spayne.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter our very hearty Commendations to your Lordſhip, We ſend you incloſed a Petition preſented to this Board in the name of the Merchants and paſſengers of the ſhip called the <hi>Elizabeth</hi> of <hi>London,</hi> together with two Certificates concerning the ſame; The one from the Lord <hi>Aſton</hi> his Majeſties late Embaſſador reſident there; The other from Sir <hi>Henry Martin</hi> Knight, Judge of the Admiralty: Whereby you will perceive with what violence and outrage the ſaid ſhip the <hi>Elizabeth,</hi> was heretofore taken from the Petitioners by eleven ſayle of the <hi>Spaniſh</hi> Plate-fleete, and what proceedings have been ſince had for the recovery of the ſame; Whereof We have taken conſideration, and be<g ref="char:EOLhyphen"/>ing deſirous to protect his Ma<hi rend="sup">ies</hi> ſubjects from wrongs and injuries, have thought good thereby in eſpeciall manner to recommend it to your Care to imploy your beſt meanes and endeavors on the Petitioners behalfe, in repreſenting the great damage and loſſe which they have ſuſteined there<g ref="char:EOLhyphen"/>by, and preſſing the ſame with all ſuch Arguments and reaſons, as you in your diſcretion ſhall think fit, according to the nature of the Caſe; to the end a ſpeedy and full reſtitution may be made unto the Petitioners, and ſuch ſatisfaction given them for the damage and charge which they have hitherto ſuſteined, as to Juſtice doth apperteine, and as may be expected towards his Majeſties, Subjects from his Friends and Allies. Whereupon, in caſe ſuch juſt reſtitution as aforeſaid be eyther denied to the Petitioners, or that ſuch delayes be uſed therein as may be conſtrued and deemed a deniall, you are forthwith to repreſent the ſame to this Board in expreſſe termes, that ſuch further courſe may be taken for the Petitioners reparation and reliefe, as to his Majeſty and this Board ſhall be found juſt. And ſo We bid your Lordſhip very heartily farewell.</p>
+            <closer>
+               <dateline>From <hi>White-hall,</hi> 
+                  <date>the laſt day of <hi>April. 1639.</hi>
+                  </date>
+               </dateline>
+               <signed>Your loving Friends <hi>Signed by the</hi>
+                  <list>
+                     <item>Lo. Arch. B. of Cant.</item>
+                     <item>Lo. Cottington.</item>
+                     <item>Lo. Keeper.</item>
+                     <item>Lo. Newburge.</item>
+                     <item>Lo. Treaſurer.</item>
+                     <item>Mr. Comptroller.</item>
+                     <item>Lo. Privy Seale.</item>
+                     <item>Mr. Sec. Windebank.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:159900:5"/>
+            <head>The <hi>Engliſh</hi> Ambaſſadors Anſwere out of <hi>Spaine.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Bearer hereof <hi>Benjamin Woolnoe,</hi> was Maſter of the ſhip called the <hi>Elizabeth;</hi> which in his voyage towards <hi>Virginia,</hi> was on the eleventh of <hi>October</hi> 1637, ſeized on by the Squadra of <hi>Nova Eſpania,</hi> and brought to <hi>Cades,</hi> with all her lading and paſſengers. For reſtitution of which ſhip, and for ſatisfaction for the loſſes and damages, it ſeeemes my Lord <hi>Aſton,</hi> in the time of his ſervice in this Court, uſed all fit diligences, the effect whereof was, a promiſe that the ſhip and goods depoſited at <hi>Cadiz</hi> ſhould be forthwith reſtored. But in the execution thereof were interpoſed ſome delayes, which continued untill the Maſter and his Com<g ref="char:EOLhyphen"/>pany reſolved on returning to their Country; and ſo nothing was exe<g ref="char:EOLhyphen"/>cuted at that time, nor before my Lord <hi>Aſton</hi> returned for <hi>England.</hi>
+            </p>
+            <p>Whereupon the Maſter and the parties interreſſed in the ſaid ſhip and goods petitioned his Ma<hi rend="sup">tie</hi>. and the Board for ſome courſe to be taken for their ſatisfaction, and accordingly the Lords having conſul<g ref="char:EOLhyphen"/>ted with my Lord <hi>Aſton</hi> and with Sir <hi>Honry Martin</hi> Judge of the Ad<g ref="char:EOLhyphen"/>miralty, were pleaſed to direct unto me their Lordſhips letter, bearing date the laſt day of <hi>April.</hi> 1639. which came to my hands on the 10/20 of <hi>Auguſt</hi> of the ſame yeare; Commanding me to uſe all due meanes for the obteining full and ſpeedy ſatisfaction for the ſaid loſſe: And in caſe the ſame ſhould be deteined, or that ſuch delaies ſhould be uſed therein, as might be conſtrued or deemed a deniall, then to repreſent the ſame in ex<g ref="char:EOLhyphen"/>preſſe termes to the Board.</p>
+            <p>In humble obedience to which Order, I have from the ſaid 10/20 of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> ſpared no diligence to the effect above mentioned, having ſpoken to the King, and delivered him a paper conteining the whole matter, as well in manifeſtation of the diſorder, as in demand of due ſatisfaction accor<g ref="char:EOLhyphen"/>ding to reaſon and juſtice. And I have ſeverall times ſpoken to, and ſoli<g ref="char:EOLhyphen"/>cited a Reſolution therein with the <hi>Conde Duque,</hi> as a Miniſter of generall Care and Power; and with the <hi>Conde de Caſtrillo</hi> Preſident of the Coun<g ref="char:EOLhyphen"/>cell
+<pb n="8" facs="tcp:159900:6"/>of the Judges, to whoſe charge the diſpatch of this buſineſſe doth par<g ref="char:EOLhyphen"/>ticularly belong.</p>
+            <p>And although I have received many faire hopes and promiſes from all ſides, and from time to time; yet untill the day of the date hereof, being the 20/30 of <hi>May</hi> in the yeare 1640. I have been able to get no Reſolution, nor are the likely hoods thereof greater now then they were the firſt day. And the Bearer hereof, <hi>Benjamin Woolnoe,</hi> being no longer able to ſuffer the charge of this expenſive place, hath deſired me to give my Certificate, according to the preſent ſtate of this buſineſſe, which I have done as a<g ref="char:EOLhyphen"/>bove ſaid; leaving a conſtruction upon the delay and want of Anſwere hitherto, to your Honours and their Lordſhips better judgements, to whom your Honors may pleaſe to give an accompt hereof as you ſhall thinke fit, and I doe humbly deſire: Humbly repreſenting herewithall, that if any other buſineſſe remitted to me by their Lordſhips or your Ho<g ref="char:EOLhyphen"/>nors, concerning his Majeſties Subjects, I have failed to give eyther you or them the Anſwere that may be expected, It is becauſe I can get none; which is the ordinary courſe of this Court, where the doing Juſtice is prejudiciall to the Kings Revenues; though in other matters their diſ<g ref="char:EOLhyphen"/>patch be not to be complained of.</p>
+            <closer>I ſhall trouble your Honors no more, but humbly reſt,
+<signed>Your Honors moſt humble ſervant <hi>ARTH. HOPTON.</hi>
+               </signed>
+               <dateline>Madritt <date>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>/30</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treaty">
+            <head>Articles of the Treaty 18 <hi>Aug.</hi> 1604.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>FIRST It is concluded, and accorded, that from this day forward, there ſhall be a good, ſincere, true, firme and perfect Amitie, League &amp; Peace to endure for ever, and inviolably to be obſerved and kept, as well by Land as Sea, and freſh Waters, betwixt the moſt renowned king of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> &amp;c. And the moſt renow<g ref="char:EOLhyphen"/>ned king of <hi>Spaine,</hi> &amp;c. And the moſt renowned Archdukes of <hi>Auſtrice,</hi> Dukes of <hi>Burgundie,</hi> &amp;c. and their Heires and Succeſſors whomſoever, their Kingdomes, Countries, Dominions, Lands, Peoples, Liegemen, and Subjects now being, or which hereafter ſhall be, of whatſoever conditi<g ref="char:EOLhyphen"/>on, ſtate, or degree they are or may be, ſo as the ſayd Vaſſalls and Sub<g ref="char:EOLhyphen"/>jects
+<pb n="9" facs="tcp:159900:6"/>from henceforth are each of them to favour other and to uſe one a<g ref="char:EOLhyphen"/>nother with all kind and friendly offices.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>AND each party ſhall hereafter abſtaine from all depradations, offences and ſpoyles, as well by Sea, as Land, and freſh waters, in whatſoever the Kingdomes, Dominions, Places, or Governments of the other: neither ſhall the aforeſayd Princes conſent, that any of the grievances before mentioned, be done by any of their Vaſſals, Inhabi<g ref="char:EOLhyphen"/>tants. or Subjects: and they ſhall alſo cauſe reſtitution to be made of all depradations and ſpoyles which hereafter ſhall be committed and of the damages growing by meanes thereof,</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>AND whoſoever ſhall doe any thing to the contrary, he ſhall be puniſhed not only criminally according to the merit of his offence, but ſhall alſo be compelled to make reſtitution, and ſatisfaction for the loſſes to the parties damnified, requiring the ſame.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>Branches of Statutes.</head>
+            <div type="statute">
+               <head>An. XXVII. Ed. <hi>3.</hi> c. <hi>17.</hi>
+               </head>
+               <p>ITEM That no Marchant Stranger be impeached for anothers Treſpaſſe, or anothers Debt, whereof he is not Debtor, Pledge, nor Mainpernor. Provided alwaies, that if our liege people Merchants or other, be indamaged by any Lords of ſtrange Lands or their ſubjects, and the ſaid Lords (duely required) faile of right to our ſaid ſubjects, we ſhall haue the law of Merque, and of taking them againe, as hath bene uſed in time paſt, without fraud or male-engine.</p>
+            </div>
+            <div type="statute">
+               <head>An. II. Hen. <hi>5.</hi> c. <hi>7.</hi>
+               </head>
+               <p>THE King willing as well in this caſe, as in other, to provide the imdempnity of his liege and faithfull ſubjects, hath declared in this preſent Parliament, that of all the attempts made by his enemies, upon any of his faithfull liege people, againſt the tenor of any truce taken
+<pb n="10" facs="tcp:159900:7"/>before this time, wherein is no expreſſe mention made, that all Marques and Repriſals ſhall ceaſe: the ſame our Soueraign Lord the King will grant Marque to all them that feele themſelves in this caſe grieued in due forme. And our ſaid Soueraigne Lord the King ſhall make reparaile to all his liege people that feele them grieued againſt the tenor of any truce, which betwixt him and any of his enemies ſhall be newly taken here<g ref="char:EOLhyphen"/>after. And to the greater comfort of his ſaid faithfull liege peopl, to the intent that they may the more readily and without long delay have re<g ref="char:EOLhyphen"/>made in this caſe. the ſame our Soueraigne Lord the King wil, that if he or they that feele them grieued againſt the tenor and forme of ſuch truce within the realm of England, out of the ſaid marches of Scotland, or upon the Sea, or in the parts beyond the Sea, ſhall complaine to the Keeper of the priuy Seale, which for the time ſhall be, who after ſuch complaint heard and perceiued, thereof ſhall make the party complainant (if he the ſame require) Letters of Requeſt under the Privie Seale in a due forme, and if after ſuch Requeſt made, the party required doe not make within a convenient time due reſtitution and ſatisfaction to the partie grieved, then the Chanceller of England for the time being, ſhall doe to be made to ſuch partie grieved (if he that demand) Letters of Marque under the great Seale in a due forme, &amp;c.</p>
+            </div>
+         </div>
+         <div type="proclamation">
+            <head>Proclamation 1. <hi>Car.</hi> for encouragement <hi>of Trade to Virginia.</hi>
+            </head>
+            <p>THAT the Territories of <hi>Virginia, New-England,</hi> and the <hi>Sum<g ref="char:EOLhyphen"/>mer-Iſlands,</hi> &amp;c. Are part of his Royall Empire, diſcended upon him and that he holds himſelfe bound, by his Regall Office, to Protect, Main<g ref="char:EOLhyphen"/>taine, and ſupport the ſame (and ſo is reſolved to doe) as well as any o<g ref="char:EOLhyphen"/>ther his Dominions, &amp;c.</p>
+         </div>
+         <div type="list_of_precedents">
+            <pb n="11" facs="tcp:159900:7"/>
+            <head>Preſidents of forraigne practice toward the <hi>Engliſh.</hi>
+            </head>
+            <p>GIVE us leave therefore to minde your Honors of the practice of other kingdomes and ſtates in Amitie with the Crown of <hi>England,</hi> who make it matter of State to releive their Subjects, pretending injuries done them by any of the Engliſh out of any of their goods which come within their juriſdiction, as will appeare by theſe enſuing Preſidents, of which we could have eited many more, but that we feare to offend your Patience.</p>
+            <p>Captaine <hi>Jones,</hi> Captain of one of the Parliaments ſhips, in the moneth of <hi>April</hi> 1644. ſeized upon a French ſhip belonging to one <hi>Peter Le Duke</hi> of Saint <hi>Mallowes</hi> (called the Saint <hi>Julian</hi>) <hi>Peter Michelot</hi> Maſter, the ſhip was laden with Corne, Gunpowder and other goods; Captaine <hi>Jones</hi> takes out the Gunpowder and ſome ſmall trifles more, and ſends up the ſhip and her lading to <hi>London</hi> as a Prize, where within foure moneth after ſhe was freed in the Admiralty: Immediatly upon her firſt takeing about, 21. <hi>Apr.</hi> 1644. <hi>Peter Le Duke</hi> obtained a Decree from the Councell of State to arreſt the Goods or Ships of any of the En<g ref="char:EOLhyphen"/>gliſh Subjects in obedience to the Parliament, by virtue whereof he ob<g ref="char:EOLhyphen"/>teined from the Judge of the Admiralty in Saint <hi>Mallowes</hi> a Warrant to breake open the Counting-houſe of <hi>Daniel Searles,</hi> Factor to Engliſh Merchants, and by Letters and Bookes there found that in the <hi>Anne</hi> of <hi>London</hi> (of which <hi>Giles Symmes</hi> was Maſter) there was goods to the va<g ref="char:EOLhyphen"/>lue of 1100. <abbr>l</abbr> belonging to Maſter <hi>William Barkley</hi> of <hi>London</hi> and Com<g ref="char:EOLhyphen"/>pany Merchants; the ſaid Officers unladed all her goods, as well Maſter <hi>Barckleys</hi> as others, and kept them in their cuſtody untill the ſhip was releaſed here, and untill full ſatisfaction was made to <hi>Le Duke</hi> for the Gunpowder and other goods taken forth of the Saint <hi>Julian,</hi> and to the Maſter for Saylors wages, fraight of the Ship and other charges for the time they were ſtayed, which coſt Maſter <hi>Barckley</hi> and Company 350. <abbr>l</abbr> here, and about 400. <abbr>l</abbr> in <hi>France,</hi> in ſuites of Lawe and other charges there. Theſe goods thus freed from <hi>Le Dukes</hi> Arreſt, and reladen into another Ship for the Merchants of <hi>London,</hi> had been againe arreſted upon a ſecond pretence, by another partie, for dammages pretended to be done him by the <hi>Engliſh,</hi> had not the Maſter (in which they were re-laden) de<g ref="char:EOLhyphen"/>fended himſelfe, and by force carried them away: Whereupon the ſe<g ref="char:EOLhyphen"/>cond
+<pb n="12" facs="tcp:159900:8"/>pretenders met with another Barke in which was 600. <abbr>l</abbr> worth of goods of the ſaid Maſter <hi>Barckleys;</hi> arreſted them by a Warrant from the Judge, and the greateſt part of them are there to this day, and no ſa<g ref="char:EOLhyphen"/>tisfaction can be obtained.</p>
+            <p>There are divers other preſidents of ſeizures made both by Land and Sea frequently by the <hi>French,</hi> of the goods of <hi>Engliſhmen;</hi> for injuries pretended to be done to them, which is done by virtue of Warrants from the immediate Judges, and not by Letters of Reprizall, for no other cauſe but upon a pretence that ſome other <hi>Engliſhman</hi> had done them an injury as in the Caſe of <hi>Martin De Lawney,</hi> which hath been in agitation above twentie yeares, for Goods pretended to be taken formerly by a Pirate. William Berkley.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Treatie <hi>1644.</hi> between the King of <hi>Denmarke,</hi> and the <hi>Parli<g ref="char:EOLhyphen"/>aments</hi> Commiſſioners, was upon this Cauſe.</head>
+                  <p>IN the beginning of <hi>Auguſt</hi> 1643. The Parliaments Ships tooke the Ship called the <hi>Chriſtian Arke,</hi> belonging to the King of <hi>Denmarke,</hi> laden with Armes and Amunition, entring <hi>Tinmouth</hi> Bay, and bound for <hi>Newcaſtle;</hi> brought her up to <hi>London,</hi> and by Order of the Houſe of Commons diſpoſed of the Armes and Ammunition, returning only the Ship. Hereupon his Majeſty of <hi>Denmarke</hi> 23. of the ſame Moneth, ſeized a Ship belonging to the Merchants Adventurers paſſing <hi>Gluckstadt</hi> upon the River <hi>Elne,</hi> and bound for <hi>Hamburgh;</hi> as alſo foure other Ships be<g ref="char:EOLhyphen"/>longing to the Eaſt-land Company paſſing the <hi>Sound,</hi> and confiſcated both Ship and goods, without any Proceſſe in his Admiraltie, but only by Act under his owne Hand and Seale. After three ſeverall Treaties his Majeſty of <hi>Denmarke</hi> did at laſt agree in <hi>April.</hi> 1645. To reſtore ſo much on his part as exceeded the value of his Armes here confiſcated, which was alſo done by the extraordinary way of Treaty, and not by any Pro<g ref="char:EOLhyphen"/>ceſſe of Law.</p>
+                  <closer>
+                     <signed>THO. SKINNER. <hi>Societ. Advent. Secret.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Many Preſidents might be alledged in this kinde of the practice of the <hi>Spanyards</hi> towards the <hi>Engliſh,</hi> who Seize and Condemn their goods in Port, or otherwiſe on Shoare, upon pretence of injuries done them, and
+<pb n="13" facs="tcp:159900:8"/>that ſo notoriouſly knowne that the Plaintiffe need give no inſtances thereon. And further the Judges in <hi>Spayne,</hi> in the way of a Civill action, by Arreſt Condemn the Ships and Goods of ſuch as are in Company, having no relation to the perſons, or Ships, whereof the perſons are that did the pretended dammage, as will appeare by the particular Preſidents of Captaine <hi>Davis</hi> and <hi>Tyddyman</hi> lately acted in <hi>Spayne,</hi> hereafter enſuing.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THESE are to certifie unto all thoſe whom theſe Preſents may con<g ref="char:EOLhyphen"/>cerne, that in the yeere 1642, I <hi>Thomas Davis,</hi> Commander of the good ſhip called the <hi>Golden-Fleece</hi> of <hi>London,</hi> being in the Bay of <hi>Cadiz,</hi> it happened that certain Mariners belonging to the Port of <hi>Dover,</hi> tooke out of the ſaid Bay a certain Veſſell belonging to the kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> with the lading and Marriners therein; for which ſaid Act, appre<g ref="char:EOLhyphen"/>hending and injury to themſelves, as in reſpect the ſaid ſhip was taken be<g ref="char:EOLhyphen"/>ing under their protection, ſeized upon me the ſaid <hi>Thomas Davis,</hi> com<g ref="char:EOLhyphen"/>mitted me to priſon, and have ſince condemned me and my ſaid Ship, in certain thouſands of pounds for ſatisfaction for the ſaid Ship and Goods; although I, the ſaid <hi>Thomas Davis,</hi> had never any Conſortſhip or inter<g ref="char:EOLhyphen"/>eſt with the ſaid <hi>Dover</hi> Marriners, nor to this day know any of them, or ought proved againſt me to that effect.</p>
+                  <closer>
+                     <dateline>In Teſtimony whereof I have hereunto put my hand <date>this preſent 11 of <hi>July</hi> 1646.</date>
+                     </dateline>
+                     <signed>Thomas Davis.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe thing thus premiſed, your Honors may be pleaſed to obſerve that it is evident,</p>
+            <p>Firſt, That the King of <hi>Spayne</hi> hath Covenanted a Peace with the King of <hi>England,</hi> in the behalfe of himſelfe and ſubjects, whereby it is a<g ref="char:EOLhyphen"/>greed that reſtitution ſhall be made of all ſpoyles, with the dammages as aforeſaid.</p>
+            <p>Secondly, That there hath beene a ſhamefull Depradation done upon the Ship <hi>Elizabeth,</hi> belonging to <hi>Joſeph Hawes</hi> and Company; and that they have ſought ſatisfaction in <hi>Spayne,</hi> but without the deſired effect; and the Offenders, in ſtead of puniſhment, continued in their former Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mands and Imployments.</p>
+            <p>Thirdly, That Juſtice being denied by a Prince that hath ſworne a League, &amp;c, as aforeſaid; It is accounted juſt, and the practice of all Na<g ref="char:EOLhyphen"/>tions,
+<pb n="14" facs="tcp:159900:9"/>to ſatisfie the Perſons ſuffering, out of the next goods of that Nati<g ref="char:EOLhyphen"/>on offending, coming within the power or juriſdiction of that Crowne under whoſe protection the Partie that is ſpoyled inhabiteth; And that the Equity hereof may more cleerely appeare, May it pleaſe your Honors to conſider.</p>
+            <p>That ſuch is the conſtant uſage of the <hi>Spaniſh</hi> Nation towards the <hi>En<g ref="char:EOLhyphen"/>gliſh.</hi> Our Lawes intend the ſame, for it is enacted <hi>Anno.</hi> 5. <hi>Hen.</hi> 4. That Merchants-Strangers ſhall be intreated in this Realme, as Mer<g ref="char:EOLhyphen"/>chants Denizons are beyond the Seas. In Order whereunto, there was an Act of Parliament in a particular Caſe, relating to the Subjects of the Duke of <hi>Burgundie, Au.</hi> 4. <hi>Ed.</hi> 4. And an Act of State <hi>An.</hi> 11. <hi>Elizab.</hi> concerning the <hi>Flemings</hi> and <hi>Spanyards,</hi> wherby other Nations in league with the <hi>Engliſh,</hi> were kept to an equall obſervation of the Articles of Peace; And experience teacheth, That there is no better a meanes of ma<g ref="char:EOLhyphen"/>king a Peace durable, then by being ſenſible of the firſt and leaſt violation. This ſtrict keeping of the <hi>Spanyard</hi> to a mutuall maintayning of Amitie, made him, even againſt his will (ſaith <hi>Cambden</hi>) beare a more favorable minde towards the <hi>Engliſh,</hi> and produced the renuing that Peace which from the yeere 1568. to 1573. was ſomwhat interrupted by the <hi>Spany<g ref="char:EOLhyphen"/>ards</hi> ſhuffling with this Nation: Queene <hi>Elizabeth</hi> to her exceeding great honour (ſaith the ſaid Author) ſatisfying to the full the dammages of the <hi>Engliſh</hi> Merchants, out of the <hi>Nether-landers</hi> goods, then within her juriſdiction. And it was the ſpeech of an Ambaſſadour of <hi>Spayne</hi> to the King of <hi>France</hi> at <hi>Bloys An.</hi> 1599. That if the publique Faith did not maintayne reciprocall Bonds, the Peace would be more injurious then War, being impoſſible to avoid the deceipts of him that was a friend in ſhew, but in effect an enemy; And by this it is, that Articles of Peace which are principally made for the defence of the Innocent, become mates to them, and advantages to the injurious; <hi>Et infirmatis voiolatiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pactis tollitur inter homines commerciorum uſus.</hi> And in this Caſe where<g ref="char:EOLhyphen"/>in there is no other remedy, the Lawe of Nations ordaynes, that by equall wrong Princes and People that keepe not Faith ſhould be enforced to doe equall right. For, is it reaſonable that the Nation ſhould have the benefit of thoſe Articles of Peace, by which themſelves will not be bound. It is therefore enacted by the Lawes of this kingdom. 10. <hi>Hen.</hi> 6. That any Subject of the Crowne of <hi>England,</hi> that is ſpoyled by a forreigne people, ſhall have Letters of Requeſt, under the Privy Seale, for his ſatisfaction, which if not had in convenient time; The King by advice of his Councell ſhall provide remedy for the partie grieved, which is further explaned
+<pb n="15" facs="tcp:159900:9"/>
+               <hi>An.</hi> 4. <hi>H.</hi> 5. and it was accuſtomed to be done by the rules of naturall E<g ref="char:EOLhyphen"/>quity, for by tedious and chargeable ſuites, the burden of the oppreſſed is made heavier, which at the beſt is pittifull, and where they have relation to the <hi>Spanyard,</hi> moſt miſerable: My Lords and Gentlemen, you are his Majeſties greateſt Councell now oportunely ſitting; Theſe hono<g ref="char:EOLhyphen"/>rable Houſes have ever been the Fountaines of Juſtice; Hence we drawe the waters of our livelyhoods and liberties: You are thoſe from whom we expect ſhelter againſt the ſtormes of forreigne windes, and the drop<g ref="char:EOLhyphen"/>pings of unjuſt judgements: You are the refuge and Sanctuary of the diſtreſſed members of this kingdome; Nor is there any thing will be a more acceptable ſervice unto God, nor render you more honorable to men, then to releive the oppreſſed. Actions of Juſtice and Mercy are equi<g ref="char:EOLhyphen"/>valent to the Majeſty and Greatnes of this Aſſembly; with you is Power if there be any Balm in <hi>Gilead;</hi> with you is Wiſedome to diſcerne the high inconveniences that enſue upon connivence at injuries of this nature and to perceive that through our ſides the Nation is wounded, when unto other former attempts to diſcourage the Navigation of the <hi>Engliſh</hi> to the <hi>Weſtern-Plantations;</hi> this Depredation is added in a purpoſed hoſtile manner, aggravated by the affronting ſpeech of the Marqueſſe <hi>Cardeneza</hi> Generall of the Fleet, <hi>That he would carry us into</hi> Spayne <hi>to knowe if the King his Maſter would give leave to the King of</hi> England <hi>that his ſubjects might plant and trads in</hi> Virginia; as if we had begged a Gibeonitiſh Peace, and muſt be content with our lives and enjoy the benefit of the Ar<g ref="char:EOLhyphen"/>ticles, as they pleaſe to interpret them.</p>
+            <p>Sure the Honor of the <hi>Engliſh</hi> Nation is not come to this, nor are thoſe Plantations with ſo great charge brought to ſome perfection, to have ſo ſhort an end as the Will of the <hi>Spanyard</hi> would meaſure them out. The deſigne was higher, and had a further intent, and may hereafter have a more ſeaſonable thought; which is left to the Wiſedome of this State. It only remaines that <hi>ex abundanti</hi> We ſhew your Honors the equity of our pretenſions; that though by the Lawes of this kingdome, and the practices of other Nations, we ought to have reparations (out of the goods of any of that Nation that hath done us the injurie) yet more eſpecially a<g ref="char:EOLhyphen"/>gainſt theſe Goods and Perſons entitling themſelves owners; And firſt for the Goods.</p>
+            <p>They are our moſt certain hold, proved to be taken out of the <hi>Vice-Ad<g ref="char:EOLhyphen"/>mirall</hi> of the <hi>Spaniſh Weſt-India</hi> Fleete [<hi>ſee the profes made in the Admi<g ref="char:EOLhyphen"/>ralty Coure, Fol.</hi> 19.29.32. <hi>&amp; fol.</hi> 24.34.] and then we alledge, That the <hi>Spaniſh Weſt India</hi> Fleete that robbed the <hi>Elizabeth</hi> in 1637. and this
+<pb n="16" facs="tcp:159900:10"/>in <hi>An.</hi> 1640. were one and the ſame; ſet out by the ſame power and authority, and to the ſame end, <hi>Viz</hi> under the authority of the Contra<g ref="char:EOLhyphen"/>ctation Houſe, Perſons deputed to mannage that particular Trade, and the Fleete therson depending; the end, To appropriate the profit of that Trade to the King of <hi>Spayne</hi> and ſome others that by Licence he encorpo<g ref="char:EOLhyphen"/>rates to himſelfe, taking an Average of all the Plate and Merchandize that comes thence, <hi>Viz.</hi> a third or fourth of the returne for the maintenance of the Men of Warre that execute the Orders of that Houſe, in the ſpoyle of thoſe that trade thither without Licence. That in this Fleete 1637 [<hi>fo.</hi> 27.28.] that tooke the <hi>Elizabeth;</hi> That theſe Goods came to <hi>Southamp<g ref="char:EOLhyphen"/>ton,</hi> not in a way of Merchandize and Commerce, but caſually and by ac<g ref="char:EOLhyphen"/>cident brought in, otherwiſe bound for <hi>Spayne.</hi>
+            </p>
+            <p>And for the Perſons pretended owners. It is by themſelves confeſſed upon Oath, that they are all uſuall Traders to the <hi>Weſt Iudies.</hi> In particu<g ref="char:EOLhyphen"/>lar <hi>Hieronimo Favian Loretto;</hi> That he hath uſed to ſayle to the <hi>Weſt-In<g ref="char:EOLhyphen"/>dies</hi> and traded for theſe 12 yeeres. [<hi>fol</hi> 94.] <hi>Ignatius Landahola</hi> hath uſed to trade by the ſpace of 11 yeeres, and that he hath been 7 voyages in the <hi>Weſt Indies.</hi> [<hi>fol.</hi> 105.] <hi>Marcus de la Rombida,</hi> That he hath tra<g ref="char:EOLhyphen"/>ded about 12 yeers, &amp; beene in the <hi>Indies</hi> 8 ſeverall voyages. [<hi>fol.</hi> 107.] That in this voyage 1640 they were about two yeers before they retur<g ref="char:EOLhyphen"/>ned; That the Ships that goe forth in one yeere, returne not untill the next, whereby of neceſſitie it muſt follow; That thoſe very perſons were in the Fleete that robbed the <hi>Elizabeth,</hi> being in all the voyages for the ſpace of 11 or 12 yeeres, and therfore moſt juſt, in all reſpects, that the monies in the Parliaments hands, being the proceede of theſe Goods ſhould be the ſatisfaction of your preſent Petitioners the Adminiſtrators of <hi>Joſeph Hawes,</hi> in the behalfe of themſelves and others, the rather for that upon their firſt arrivall the ſaid Ship and Goods were arreſted by them by an Action out of the Admiraltie. We ſhall now with <hi>Brutus</hi> to the Senate of <hi>Rome,</hi> only ſhew our wounds, and waite the ſtirring opor<g ref="char:EOLhyphen"/>tunity of your healings, Our wounds yet bleeding are too apparent.</p>
+            <p>
+               <hi>Joſeph Hawes</hi> and Company by the firſt ſpoyle endammaged above 12000. <abbr>l</abbr> The advantage that was like to have accrued to them by that voyage is proved to be about 5000. <abbr>l</abbr> more.</p>
+            <p>The want of that ſtock for 9 yeeres in their Trades may be eaſily valu<g ref="char:EOLhyphen"/>ed, the parties having paid 8 <hi>per cent.</hi> themſelves. The prejudice that <hi>Jo<g ref="char:EOLhyphen"/>ſeph Hawes</hi> had in the loſſe of a known faire eſtate; His impriſonment and death with griefe followed. The conſequences of this Depredation
+<pb n="17" facs="tcp:159900:10"/>in the loſſe his friends ſuſteined, who were in naturall affection bound to his ſupport, which they were the rather incouraged to doe by the hope they had of his reliefe out of Silver and Merchandize by him arreſted, be<g ref="char:EOLhyphen"/>longing to the <hi>Spanyards,</hi> brought hither in an Engliſh bottom from the <hi>Summer-Iſlands.</hi>
+            </p>
+            <p>The ruine of his naturall Brother <hi>Nath. Hawes,</hi> ingaged for him in di<g ref="char:EOLhyphen"/>vers great ſummes of money, part of which he paid, and had Execution ſerved upon his eſtate for more, to his dammage above 6000. <abbr>l</abbr> beſides loſſe of his Trade, which he is ready upon Oath to teſtifie, being the proofe the Law in this caſe requites.</p>
+            <p>
+               <hi>Randall Mainwaring</hi> and <hi>Geo. Payne</hi> that married his two Siſters have likewiſe paid ſeverall great ſummes of money for him, and reſt ingaged for more.</p>
+            <p>There hath beene ſpent 1400. or 1500. <abbr>l</abbr> in purſuance of ſatisfaction, Theſe dammages we humbly conceive Juſtice will make good, beſides the ſufferances of the Saylors and Paſſengers.</p>
+            <p>We might further move your pitty, by putting you in minde of the neceſſities of the ſaid Ships company; ſome Widowes and Children, relicts of thoſe deceaſed, wanting bread, whom the charitie of others ſupports.</p>
+            <p>We are therefore bold to caſt our ſelves into the ſympathizing Armes of this Common-wealth, by your Honors repreſented. It was the ſaying of the wiſe <hi>Solon, That that Common-wealth was only Well governed wherein every man tooke the injuries done to another as done to himſelfe and to Juſtice.</hi>
+            </p>
+            <p>The Lord direct the Judgement to be ſuch, that it may be for the pub<g ref="char:EOLhyphen"/>lique good of the Nation, the vindicating the Honor thereof, the preven<g ref="char:EOLhyphen"/>ting future injuries, and manifeſtation of that Juſtice which is Gods own work, and you the faithfull diſpencers.</p>
+            <p>In aſſured confidence whereof, we your humble Petitioners ſhall bleſſe God for you, and the happie effects of Juſtice and protection that flowe from theſe honorable Houſes.</p>
+            <epigraph>
+               <q>
+                  <l>Hac una reges olim ſunt fine Creati</l>
+                  <l>Dicere jus populis, injuſta<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tollere facta.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
